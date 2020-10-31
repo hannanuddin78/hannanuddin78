@@ -1,19 +1,21 @@
-### Hi there, I'm Azizul Haque
+### Hi there, I'm Sayed Hannan Uddin Akash
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 React Lover 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
- - 📫 How to reach me: haqueazizul789@gmail.com
- - 🥅 2020 Goals: Learn React,Vue, Node
+ - 📫 How to reach me: hannanuddin78@gmail.com
+ - 🥅 2020 Goals: Learn Advance JavaScript,Vue, Node
  - ⚡ Fun fact: I love to see movie and play cricket 
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azizul--haque/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/azizul.haque.789) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hannan-uddin-129843158/)  
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/syed.hannan.uddin78/)
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
 
 ### Hire Me!
-[Resume](https://drive.google.com/file/d/1VKWrthpPzPp0mWeYmFv0VNdvBVJ_-_S2/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1-AkSFiMKYLlZnSsQljyVEmAWeTRipJb-/view?usp=sharing)
 <br />
 
 ### Languages and Tools:
