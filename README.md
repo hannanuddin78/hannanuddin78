@@ -41,8 +41,6 @@
 <br />
 <br />
 
-<img width="550" alt="Hannan Uddin Github Stats"  src="/>
-
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul016&card_width=550)](https://github.com/azizul016/azizul016)
 
 [programming]: https://www.programming-hero.com/
