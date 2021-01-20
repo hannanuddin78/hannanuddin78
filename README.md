@@ -5,7 +5,7 @@
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
  - 📫 How to reach me: hannanuddin78@gmail.com
- - 🥅 2020 Goals: Learn Advance JavaScript,Vue, Node
+ - 🥅 2021 Goals: Learn Advance JavaScript, Vue, Node.js, Angular, Wordpress
  - ⚡ Fun fact: I love to see movie and play cricket 
 
 ### Connect with me:
@@ -15,7 +15,7 @@
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
 
 ### Hire Me!
-[Resume](https://drive.google.com/file/d/1-AkSFiMKYLlZnSsQljyVEmAWeTRipJb-/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1i8JEr5ncqq850KNTpKBOhjhL8uOTAjIB/view?usp=sharing)
 <br />
 
 ### Languages and Tools:
